@@ -1,8 +1,6 @@
 # labcivil
 Atividades práticas da disciplina de Estatística do curso de Engenharia Civil
 
-# Atividade Prática 01 - Distribuições de Frequências
+# CLIQUE NO BOTÃO ABAIXO PARA ACESSAR AS PRÁTICAS:
 
-
-
-# Atividade Prática 02 -
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pliniostat/labcivil/master)
